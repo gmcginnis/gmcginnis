@@ -24,16 +24,12 @@ I'm Gillian (she/her pronouns), a recent graduate from Reed College studying che
 
 🎆 Visit the [Shiny dashboard](https://gmcginnis.shinyapps.io/AirVizViewR/)
 
-🎇 Access via my [Reed host](https://shiny.reed.edu/s/users/gmcginnis/AirVizViewR/)
-
-🌫 View the [source code](https://github.com/gmcginnis/AirVizViewR)
+🎇 View the [source code](https://github.com/gmcginnis/AirVizViewR)
 
 ### FishDash
 
 **Explore _Lophiiformes_ fish data**
 
 🐟 Visit the [Shiny dashboard](https://gmcginnis.shinyapps.io/fishdash/)
-
-🐡 Access via my [Reed host](https://shiny.reed.edu/s/users/gmcginnis/FishDash/)
 
 🐠 View the [source code](https://github.com/gmcginnis/FishDash)
