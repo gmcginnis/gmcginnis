@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Gillian (she/her pronouns), a recent graduate from Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry laboratory experience, I work primarily with R and RStudio in my studies and as a course assistant, with additional experience in LaTeX via Overleaf. I have extensive higher education IT help desk support experience in both hands-on and remote settings.
+I'm Gillian (she/her pronouns), a current student at the University of Arizona's iSchool, pursuing my MS in Information Science with a Machine Learning subplan. I graduated from Reed College studying chemistry with a minor in English. I'm passionate about scientific literacy and truthful data visualization. In addition to wet and dry laboratory experience, I work primarily with R and RStudio in my studies and as a course assistant, with additional experience in LaTeX via Overleaf. I have extensive higher education IT help desk support experience in both hands-on and remote settings.
 
 ## Links
 
